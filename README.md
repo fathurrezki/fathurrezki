@@ -1,21 +1,41 @@
 ## Muhammad Fathur Rezki Junaedi
 
-SOC Analyst L1 di Q2 Technologies. Sehari-hari memantau alert SIEM, melakukan triase insiden, serta menganalisis ancaman endpoint dan email sebagai lini pertahanan pertama.
+**SOC Analyst L1 — PT Q2 Technologies** · South Jakarta
 
-Lulusan Teknik Informatika STMIK IKMI Cirebon (IPK 3,68, Cum Laude). Jalur awal saya data science dan AI — sekarang diarahkan ke deteksi ancaman dan analisis log bervolume besar.
+Security Operations Center (SOC) Level 1 Analyst dengan pengalaman pemantauan keamanan 24/7, analisis alert SIEM, triase insiden, analisis log, dan eskalasi insiden di lingkungan perbankan.
 
-**Fokus saat ini:** deteksi berbasis MITRE ATT&CK, analisis phishing, incident response
+### Pengalaman
 
-**Bahasa & tools:** Python, Flask, SQL
+**SOC Analyst L1** — PT Q2 Technologies · 08/2025 – sekarang  
+Memantau sistem aset perbankan internal 24/7, menganalisis dan men-triase alert keamanan, melakukan troubleshooting awal sebelum eskalasi ke tim L2, serta menyusun laporan pemantauan keamanan dan insiden harian.
+
+**IT Officer** — PT Tujuh Pilar Menjulang · 01/2025 – 07/2025  
+Membangun sistem pelacakan surat masuk/keluar internal dan dashboard pelaporan penjualan untuk mendukung evaluasi bisnis.
+
+**IT Support Intern** — BKPSDM Kota Cirebon · 06/2022 – 09/2022  
+Dukungan troubleshooting lini pertama untuk masalah perangkat lunak dan perangkat keras.
+
+### Keahlian
+
+**Security Operations:** SIEM Monitoring · Alert Triage · Log Analysis · Incident Investigation
+
+**Tools:** ELK Stack · CrowdStrike Falcon · FortiGate · CyberArk (PAM) · TippingPoint IPS · Trend AI Vision One
+
+**Technical:** Linux · SQL · TCP/IP & Networking Fundamentals
 
 ### Proyek
 
-**[sibi-sign-language-recognition](https://github.com/fathurputol/sibi-sign-language-recognition)** — pengenalan bahasa isyarat SIBI secara real-time, di-deploy dengan Flask.
+**[sibi-sign-language-recognition](https://github.com/fathurrezki/sibi-sign-language-recognition)** — pengenalan bahasa isyarat SIBI secara real-time, di-deploy dengan Flask.
 
-**[employee-attrition-prediction](https://github.com/fathurputol/employee-attrition-prediction)** — model prediksi karyawan resign, disajikan sebagai web app Flask.
+**[employee-attrition-prediction](https://github.com/fathurrezki/employee-attrition-prediction)** — model prediksi karyawan resign, disajikan sebagai web app Flask.
 
-**[indonesian-chatbot-flask](https://github.com/fathurputol/indonesian-chatbot-flask)** — chatbot berbahasa Indonesia dengan preprocessing NLP.
+**[indonesian-chatbot-flask](https://github.com/fathurrezki/indonesian-chatbot-flask)** — chatbot berbahasa Indonesia dengan preprocessing NLP, dibangun dalam program AI for Jobs (MSIB Batch 3).
+
+### Pendidikan
+
+**S1 Teknik Informatika — STMIK IKMI Cirebon** (09/2020 – 05/2024)  
+IPK 3,68/4,00, Cum Laude. Presiden Badan Eksekutif Mahasiswa 2022–2023.
 
 ### Kontak
 
-[LinkedIn](https://www.linkedin.com/in/fathurrezki)
+[LinkedIn](https://www.linkedin.com/in/fathurrezki) · fathurputol@gmail.com
