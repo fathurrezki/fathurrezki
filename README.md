@@ -21,9 +21,11 @@ Dukungan troubleshooting lini pertama untuk masalah perangkat lunak dan perangka
 
 **Tools:** ELK Stack · CrowdStrike Falcon · FortiGate · CyberArk (PAM) · TippingPoint IPS · Trend AI Vision One
 
-**Technical:** Linux · SQL · TCP/IP & Networking Fundamentals
+**Technical:** Linux · SQL · TCP/IP & Networking Fundamentals · Tableau
 
 ### Proyek
+
+**[Analysis of the Electric Vehicle Transformation in Washington](https://public.tableau.com/app/profile/muhammad.fathur.rezki.junaedi/viz/AnalysisoftheElectricVehicleTransformationInWashington/Dashboard)** — dashboard Tableau Public atas 130.138 unit kendaraan listrik di negara bagian Washington: tren rata-rata jarak tempuh 1996–2024, sebaran BEV/PHEV di peta, komposisi tipe kendaraan, serta peringkat model dan produsen teratas. Dikerjakan pada program Celerates School (MSIB Batch 4).
 
 **[sibi-sign-language-recognition](https://github.com/fathurrezki/sibi-sign-language-recognition)** — pengenalan bahasa isyarat SIBI secara real-time, di-deploy dengan Flask.
 
@@ -38,4 +40,4 @@ IPK 3,68/4,00, Cum Laude. Presiden Badan Eksekutif Mahasiswa 2022–2023.
 
 ### Kontak
 
-[LinkedIn](https://www.linkedin.com/in/fathurrezki) · fathurputol@gmail.com
+[LinkedIn](https://www.linkedin.com/in/fathurrezki) · [Tableau Public](https://public.tableau.com/app/profile/muhammad.fathur.rezki.junaedi) · fathurputol@gmail.com
