@@ -5,6 +5,7 @@ SOC Analyst L1 di Q2 Technologies. Sehari-hari memantau alert SIEM, melakukan tr
 Lulusan Teknik Informatika STMIK IKMI Cirebon (IPK 3,68, Cum Laude). Jalur awal saya data science dan AI — sekarang diarahkan ke deteksi ancaman dan analisis log bervolume besar.
 
 **Fokus saat ini:** deteksi berbasis MITRE ATT&CK, analisis phishing, incident response
+
 **Bahasa & tools:** Python, Flask, SQL
 
 ### Proyek
