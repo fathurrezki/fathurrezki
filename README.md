@@ -10,7 +10,7 @@ Security Operations Center (SOC) Level 1 Analyst dengan pengalaman pemantauan ke
 Memantau sistem aset perbankan internal 24/7, menganalisis dan men-triase alert keamanan, melakukan troubleshooting awal sebelum eskalasi ke tim L2, serta menyusun laporan pemantauan keamanan dan insiden harian.
 
 **IT Officer** — PT Tujuh Pilar Menjulang · 01/2025 – 07/2025  
-Membangun sistem pelacakan surat masuk/keluar internal dan dashboard pelaporan penjualan untuk mendukung evaluasi bisnis.
+Membangun sistem automasi administrasi internal dan dashboard pelaporan penjualan untuk mendukung evaluasi bisnis.
 
 **IT Support Intern** — BKPSDM Kota Cirebon · 06/2022 – 09/2022  
 Dukungan troubleshooting lini pertama untuk masalah perangkat lunak dan perangkat keras.
