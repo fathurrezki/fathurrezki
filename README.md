@@ -25,6 +25,8 @@ Dukungan troubleshooting lini pertama untuk masalah perangkat lunak dan perangka
 
 ### Proyek
 
+**[eml-triage](https://github.com/fathurrezki/eml-triage)** — alat triase berkas .eml untuk analis SOC L1: memeriksa SPF/DKIM/DMARC, keselarasan domain pengirim, teks tautan yang menyamarkan tujuan, dan lampiran berbahaya, lalu mengeluarkan verdict yang siap ditempel ke tiket. Pustaka standar Python, 32 uji unit.
+
 **[Analysis of the Electric Vehicle Transformation in Washington](https://public.tableau.com/app/profile/muhammad.fathur.rezki.junaedi/viz/AnalysisoftheElectricVehicleTransformationInWashington/Dashboard)** — dashboard Tableau Public atas 130.138 unit kendaraan listrik di negara bagian Washington: tren rata-rata jarak tempuh 1996–2024, sebaran BEV/PHEV di peta, komposisi tipe kendaraan, serta peringkat model dan produsen teratas. Dikerjakan pada program Celerates School (MSIB Batch 4).
 
 **[sibi-sign-language-recognition](https://github.com/fathurrezki/sibi-sign-language-recognition)** — pengenalan bahasa isyarat SIBI secara real-time, di-deploy dengan Flask.
