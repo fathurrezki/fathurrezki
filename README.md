@@ -42,4 +42,4 @@ IPK 3,68/4,00, Cum Laude. Presiden Badan Eksekutif Mahasiswa 2022–2023.
 
 ### Kontak
 
-[LinkedIn](https://www.linkedin.com/in/fathurrezki) · [Tableau Public](https://public.tableau.com/app/profile/muhammad.fathur.rezki.junaedi) · fathurputol@gmail.com
+[LinkedIn](https://www.linkedin.com/in/fathurrezki) · [Tableau Public](https://public.tableau.com/app/profile/muhammad.fathur.rezki.junaedi) · fathurjoon@gmail.com
